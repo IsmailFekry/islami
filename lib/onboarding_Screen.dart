@@ -75,7 +75,7 @@ class OnboardingScreen extends StatelessWidget {
       ),
       pages: [
         PageViewModel(
-          title: "Welcome To Islmi App",
+          title: "Welcome To Islami App",
           body: "",
           image: _buildImage('onboarding_1'),
           decoration: pageDecoration,
